@@ -10,7 +10,7 @@ Rules:
 1. Be nice and don't be an absolute dick
 2. No spam, random invites or unsolicided ads
 3. Don't share pirated content, malware or NSFL (not safe for life) content
-4. NSFW (not safe for work) content can only be shared at #nsfw
+4. NSFW (not safe for work) content can only be shared at #nsfw 
 
 Thank you for reading this message.
 Have a wonderful day!
