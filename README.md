@@ -6,6 +6,9 @@ Document repository: https://github.com/BigETI/bigetis-thicc-gamers-discord
 What is this server about?
 This server is for chatting with friends, playing video games with friends and watching movies with friends.
 
+What does THICC mean?
+THICC means: **T**his **H**andsome **I**ndividual is **C**ertainly **C**ool
+
 Rules:
 1. Be nice and don't be an absolute dick
 2. No spam, random invites or unsolicided ads
@@ -13,4 +16,4 @@ Rules:
 4. NSFW (not safe for work) content can only be shared at #nsfw 
 
 Thank you for reading this message.
-Have a wonderful day!
+Stay THICC and stay awesome!
